@@ -67,7 +67,6 @@ const TodoMutation = gql`
         }
 
     }
-
 `;
 
 
